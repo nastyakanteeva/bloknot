@@ -1,0 +1,15 @@
+C:\Users\Nitro 5\source\repos\block\block\bin\Debug\net6.0\block.exe
+C:\Users\Nitro 5\source\repos\block\block\bin\Debug\net6.0\block.deps.json
+C:\Users\Nitro 5\source\repos\block\block\bin\Debug\net6.0\block.runtimeconfig.json
+C:\Users\Nitro 5\source\repos\block\block\bin\Debug\net6.0\block.dll
+C:\Users\Nitro 5\source\repos\block\block\bin\Debug\net6.0\block.pdb
+C:\Users\Nitro 5\source\repos\block\block\obj\Debug\net6.0\block.csproj.AssemblyReference.cache
+C:\Users\Nitro 5\source\repos\block\block\obj\Debug\net6.0\block.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nitro 5\source\repos\block\block\obj\Debug\net6.0\block.AssemblyInfoInputs.cache
+C:\Users\Nitro 5\source\repos\block\block\obj\Debug\net6.0\block.AssemblyInfo.cs
+C:\Users\Nitro 5\source\repos\block\block\obj\Debug\net6.0\block.csproj.CoreCompileInputs.cache
+C:\Users\Nitro 5\source\repos\block\block\obj\Debug\net6.0\block.dll
+C:\Users\Nitro 5\source\repos\block\block\obj\Debug\net6.0\refint\block.dll
+C:\Users\Nitro 5\source\repos\block\block\obj\Debug\net6.0\block.pdb
+C:\Users\Nitro 5\source\repos\block\block\obj\Debug\net6.0\block.genruntimeconfig.cache
+C:\Users\Nitro 5\source\repos\block\block\obj\Debug\net6.0\ref\block.dll
